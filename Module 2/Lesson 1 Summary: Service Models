@@ -1,0 +1,34 @@
+IaaS (Infrastructure-as-a-Service):
+- Definition: Cloud provider manages physical resources.
+- Components:
+  - Physical data centers
+  - Compute
+  - Network
+  - Storage
+- Service Delivery: Fundamental computer, network, and storage resources on-demand, pay-as-you-go.
+
+PaaS (Platform-as-a-Service):
+- Definition: Cloud computing model providing a complete platform—hardware, software, and infrastructure.
+- Key Characteristics:
+  - High abstraction
+  - Support services
+  - Runtime environments
+  - Rapid deployment
+  - Middleware capabilities
+- Advantages:
+  - Scalability
+  - Faster time to market
+  - Greater agility and innovation
+
+SaaS (Software-as-a-Service):
+- Definition: Cloud offering providing access to a service provider’s cloud-based software.
+- Characteristics:
+  - Multitenant architecture
+  - Security, compliance, maintenance
+  - Customization
+  - Subscription model
+  - Scaling
+- Advantages:
+  - Direct procurement of solutions
+  - Improved workforce productivity
+  - Enable distribution of software costs
