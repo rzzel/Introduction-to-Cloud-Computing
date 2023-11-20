@@ -1,0 +1,39 @@
+Definition of Community Cloud:
+- NIST SP 800-145 Definition:
+  - Cloud infrastructure provisioned for exclusive use by a specific community of consumers with shared concerns.
+  - May be owned, managed, and operated by organizations in the community, a third party, or a combination.
+  - Can exist on or off premises.
+
+Reasons for Community Cloud Approach:
+- Shared Security Controls: Community cloud members operate under the same set of security controls.
+- Attributes Consistency: Provides members with consistent attributes like citizenship and authorization controls.
+- Data Localization: Supports data localization and data sovereignty based on the location of the community cloud’s data centers.
+- Perimeter Security Model: Defines a perimeter security model for the entire community cloud.
+
+Software-Defined Community Cloud Implementation:
+- Legacy vs. Modern Approach: Legacy community clouds rely on physical separation, while modern architecture emphasizes a software-defined approach.
+- Google Cloud's Assured Clouds: Utilizes a software-defined approach referred to as "assured clouds."
+  - Defines communities, separates projects, and allows configuration changes based on policy.
+
+Comparison: Traditional vs. Software-Defined Community Cloud:
+| Characteristic | NIST Definition SP 800-145 | Traditional Cloud Community Implementation | Software-Defined Community Cloud |
+| --- | --- | --- | --- |
+| Infrastructure Exclusivity | Cloud infrastructure is for exclusive use by a specific community | Separate data centers with separate infrastructure | Each project is effectively a private cloud with isolated infrastructure primitives |
+| Security Controls | Same security controls apply across exclusive infrastructure shared by the community | All users subject to common security controls | Assured Workloads controls scoped to the community |
+| Personhood and Citizenship of Support Staff | May be owned, managed, and operated by organizations, a third party, or a combination | Personnel must be physically located at dedicated facilities | Access management service restricts support to personnel with required attributes |
+| Data Localization | May exist on or off premises | Community dedicated storage devices enforced by software | Enforced by software |
+| Defined Security Parameter | Implied | The community is the enclave | Each project is its own enclave |
+
+Software-Defined Community Cloud as a "Government Cloud" in Google Cloud Platform (GCP):
+- Project Definition:
+  - In GCP, a project is a logical grouping of infrastructure primitives.
+  - Infrastructure primitives are atomic units of capacity, such as VMs, persistent disks, storage buckets, etc.
+- Private Cloud Deployment Model:
+  - NIST SP 800-145 defines private cloud as provisioned for exclusive use by a single organization.
+  - In GCP, each project is an individual project separate from others, creating enclaves.
+
+Benefits of Software-Defined Community Cloud:
+- Security and Compliance: Meets security and compliance requirements.
+- Rapid Onboarding: Faster onboarding of new hardware, services, and improvements.
+- Efficiency Improvement: Improved overall efficiency due to the scale of infrastructure available.
+- Quick Implementation of Security Enhancements: Security enhancements can be scaled and implemented more quickly.
