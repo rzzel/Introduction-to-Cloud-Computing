@@ -1,0 +1,28 @@
+Cloud Deployment Models:
+
+1. Public Cloud:
+- Ownership and Management:
+  - Service provider owns, manages, provisions, and maintains physical infrastructure (data centers, servers, networking, storage).
+- User Access:
+  - Users access virtualized computing, networking, and storage resources as services.
+
+2. Private Cloud:
+- Ownership and Management:
+  - Provider provisions cloud infrastructure exclusively for a single organization.
+- Locations:
+  - Internal (on-premises) or on a public cloud (Virtual Private Clouds - VPC).
+  - Can be owned, managed, and operated by the cloud provider.
+
+3. Hybrid Cloud:
+- Structure:
+  - Combination of on-premise private cloud and a third-party public cloud.
+- Integration:
+  - Connected to form a single, flexible infrastructure.
+- Benefits:
+  - Leverages features and benefits of both public and private clouds.
+
+4. Community Cloud:
+- Community Provisioning:
+  - Provider provisions cloud infrastructure for use by a community of organizations with shared concerns.
+- Ownership and Operation:
+  - One or more organizations, a third-party provider, or both are responsible for ownership, management, and operation.
