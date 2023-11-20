@@ -1,0 +1,71 @@
+Cloud Infrastructure Components:
+
+- Data Centers:
+  - Core facilities hosting computing resources.
+
+- Storage:
+  - Repository for data, files, and other information.
+
+- Networking Components:
+  - Infrastructure facilitating communication between resources.
+
+- Computing Resources:
+  - Processing power, including virtual machines (VMs) and bare metal servers.
+
+Virtualization:
+
+- Definition:
+  - Creating a software-based version of physical resources.
+
+- Hypervisors:
+  - Enables virtualization by managing and creating VMs.
+
+Types of Virtual Machines (VMs):
+
+1. Shared or Public Cloud VMs:
+   - Provider-managed, multi-tenant deployments.
+   - On-demand provisioning with predefined sizes.
+
+2. Transient or Spot VMs:
+   - Utilize unused capacity in a cloud data center.
+
+3. Reserved VMs:
+   - Allow capacity reservation, guaranteeing resources for future deployments.
+
+4. Dedicated Hosts:
+   - Offer single-tenant isolation.
+
+Bare Metal Servers:
+
+- Definition:
+  - Single-tenant physical servers dedicated to a single customer.
+
+- Use Cases:
+  - Ideal for high-performance computing (HPC) and data-intensive applications.
+  - Suited for applications with high security or compliance requirements.
+
+Cloud Networking:
+
+- Delivery as a Service:
+  - Networking capabilities provided as services instead of rack-mounted devices.
+
+- Virtual Private Clouds (VPCs):
+  - Subnets housing VMs, storage, network connectivity, and load balancers.
+
+- Subnets:
+  - Private and public subnets for secure deployment of multi-tier applications.
+
+- Load Balancers:
+  - Distribute traffic, ensuring responsive applications.
+
+Containers:
+
+- Definition:
+  - Executable units of software packaging application code, libraries, and dependencies.
+
+- Portability:
+  - Run anywhere, from desktops to the cloud.
+
+- Advantages:
+  - Lightweight, resource-efficient.
+  - Streamline development and deployment of cloud-native applications.
