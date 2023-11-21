@@ -1,0 +1,28 @@
+Term - Definition:
+
+- ACL: Access Control Lists
+- AZ: Availability Zones are distinct Data Centers with their own power, cooling, and networking resources.
+- Bare-metal hypervisor: Installed directly on top of the physical server, more secure with lower latency.
+- Block storage: Presented to compute nodes using high-speed fiber connections, offering faster and reliable read/write speeds.
+- CDNs: Content Delivery Networks deliver cached copies of website content to users based on geographic location.
+- Cloud Region: A geographic area where a Cloud provider's infrastructure is clustered.
+- Containers: Executable units of software packaging application code, libraries, and dependencies for portability.
+- Data center: A large room or warehouse containing cloud infrastructure.
+- Dedicated hosts: Offer single-tenant isolation.
+- Direct Attached storage: Storage presented directly to a cloud-based server, within the host server chassis or rack.
+- File storage: Presented as 'NFS Storage,' connected to compute nodes over a standard Ethernet network.
+- Hosted hypervisor: Hypervisor with a layer of host OS between the physical server and hypervisor.
+- HPC: High-Performance Computing.
+- Hypervisor: Software running above the physical server or host.
+- IOPS: Input/Output Operations Per Second, indicating disk speed for read and write operations.
+- NFS: Network File Storage.
+- Object storage: Storage not attached to a compute node, accessed via an API.
+- Reserved virtual server: Instances allowing reservation of capacity and guaranteeing resources for future deployments.
+- SDN: Software Defined Networking.
+- Shared or Public Cloud VMs: Provider-managed, multi-tenant deployments provisioned on-demand.
+- Transient or Spot VMs: Utilize unused capacity in a cloud data center.
+- Virtualization: Process of creating a virtual version of compute, storage, networking, servers, or applications.
+- VLANs: Virtual Local Area Networks.
+- VM: Virtual machines, software-based computers using virtualization technologies.
+- VPC: Virtual Private Cloud.
+- VPN: Virtual Private Networks.
