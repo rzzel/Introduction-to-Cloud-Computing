@@ -1,0 +1,40 @@
+Cloud Storage Types:
+1. Direct Attached (Local) Storage:
+   - Presentation: Directly to a cloud-based server.
+   - Location: Within the host server chassis or the same rack.
+   - Characteristics: Directly accessible, limited scalability.
+
+2. File Storage:
+   - Presentation: As Network File System (NFS) to compute nodes.
+   - Connectivity: Over standard Ethernet network.
+   - Characteristics: Suitable for file-based data, moderate scalability.
+
+3. Block Storage:
+   - Presentation: Via high-speed fiber connections, provisioned in volumes.
+   - Connectivity: Directly mounted onto compute nodes.
+   - Characteristics: High-speed access, suitable for databases, scalable volumes.
+
+4. Object Storage:
+   - Presentation: Accessed via API, no need for an underlying compute node.
+   - Characteristics: Infinite capacity, pay-as-you-go pricing, slower read/write speeds.
+   - Use Cases: Well-suited for scalable, unstructured data, and archival storage.
+
+Object Storage Details:
+- Infinite Capacity:
+  - Allows continuous addition of files with pay-as-you-go pricing.
+
+- Read/Write Speeds:
+  - Slower compared to other storage types.
+
+Content Delivery Network (CDN):
+- Definition:
+  - A distributed server network accelerating internet content delivery.
+  
+- Function:
+  - Delivers cached copies of website or media content based on users' geographic location.
+
+- Benefits:
+  - Accelerates content delivery, reduces latency.
+  
+- Implementation:
+  - Temporarily stores or caches copies of content.
