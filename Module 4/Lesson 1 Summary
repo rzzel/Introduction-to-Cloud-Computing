@@ -1,0 +1,22 @@
+Hybrid Multi-Cloud:
+- Strategy for cloud adoption.
+- Enables seamless interoperability between public clouds, private clouds, and on-premises IT.
+- Utilizes the best cloud-based services from different public cloud providers.
+- Aims for flexibility, efficiency, and optimization of cloud resources.
+- Enhances the overall cloud computing strategy by combining multiple cloud environments.
+
+Microservices Architecture:
+- Development approach for building applications.
+- Involves breaking down an application into loosely coupled and independently deployable components or services.
+- Each service operates independently and communicates through well-defined APIs.
+- Promotes efficiency in development, maintenance, and upgrading cycles.
+- Facilitates scalability and easier management of complex applications.
+- Enables continuous integration and delivery (CI/CD) practices.
+
+Serverless Computing:
+- Computing approach that shifts infrastructure management tasks to cloud providers.
+- Developers focus on coding, testing, and deployment without dealing with infrastructure provisioning, maintenance, and scaling.
+- Execution of functions or services on a pay-as-you-go model.
+- Ideal for event-driven applications and services.
+- Reduces operational overhead and allows for better resource utilization.
+- Enhances developer productivity by abstracting infrastructure complexities.
