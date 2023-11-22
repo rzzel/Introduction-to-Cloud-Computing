@@ -1,0 +1,97 @@
+**Module 5 Glossary: Cloud Security, Monitoring, Case Studies, & Jobs**
+
+**Access group:**
+- A group of users and service IDs with shared access assigned through one or more access policies.
+
+**Administrative users:**
+- Individuals with privileges to create, update, and delete application and service instances, needing insight into team members' activities.
+
+**API keys:**
+- Unique identifiers passed into an API to identify calling applications or users.
+
+**Application Performance Monitoring (APM):**
+- Measures application availability and performance, providing tools for troubleshooting in an application's environment.
+
+**Application users:**
+- Users of cloud-hosted applications.
+
+**AppSec:**
+- Application Security.
+
+**Audit and compliance:**
+- Critical service within the identity and access framework used to validate implemented controls against policies.
+
+**Authentication:**
+- Identity service enabling applications deployed to the cloud to authenticate users at an application level.
+
+**BYOK (Bring Your Own Keys):**
+- Policy allowing users to bring their encryption keys.
+
+**Client-side encryption:**
+- Encryption occurring before data is sent to cloud storage.
+
+**Cloud directory services:**
+- Securely manage user profiles and associated credentials within a cloud environment.
+
+**Cloud encryption:**
+- Last line of defense, encrypting data with robust access control, key management, and certificate management.
+
+**Cloud monitoring solutions:**
+- Assess data, application, and infrastructure behaviors for performance, resource allocation, network availability, compliance, and security risks.
+
+**Cloud security:**
+- Policies, technological procedures, services, and solutions securing enterprise applications and data on the cloud.
+
+**Database monitoring tools:**
+- Track processes, queries, and availability of services to ensure accuracy and reliability of database management systems.
+
+**Decryption key:**
+- Defines how encrypted data will be transformed back to legible data.
+
+**Developer users:**
+- Authorized to read sensitive information and create, update, and delete applications.
+
+**Encryption:**
+- Scrambling data to make it illegible.
+
+**Encryption algorithm:**
+- Defines rules for transforming data to make it illegible.
+
+**Encryption at rest:**
+- Protecting data while stored.
+
+**Encryption in transit:**
+- Protecting data while transmitted from one location to another.
+
+**Encryption in use:**
+- Protecting data when in use in memory.
+
+**Identity and access management:**
+- Also known as access control, authenticates and authorizes users, providing user-specific access to cloud resources, services, and applications.
+
+**Infrastructure monitoring tools:**
+- Identify hardware failures and security gaps for corrective action before affecting user experience.
+
+**Key management services:**
+- Perform life cycle management for encryption keys used in cloud services or custom-built apps.
+
+**KYOK (Keep Your Own Keys):**
+- Policy allowing users to retain ownership of their encryption keys.
+
+**Multifactor authentication:**
+- Adds an additional layer of authentication for application users.
+
+**Reporting:**
+- Provides a user-centric view of access to resources.
+
+**Server-side encryption:**
+- Encryption occurring after cloud storage receives data but before it's written to disk and stored.
+
+**SSL (Secure Sockets Layer):**
+- A security protocol for establishing encrypted links between a web server and a browser.
+
+**TLS (Transport Layer Security):**
+- A protocol securing communication over a computer network.
+
+**User and service access management capability:**
+- Enables cloud application and service owners to provision and de-provision user profiles with minimal human interaction.
