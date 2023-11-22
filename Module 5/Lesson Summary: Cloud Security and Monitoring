@@ -1,0 +1,48 @@
+**Cloud Security Overview:**
+
+- **Definition:** Protection of enterprise applications and data on the cloud against various threats.
+- **Concerns Addressed:**
+  - Insider threats
+  - Data breaches
+  - Compliance issues
+  - Organized security threats
+
+**Shared Responsibility Model:**
+
+- **Collaboration:** Shared responsibility between the cloud provider and user organization.
+  
+**Security Life Cycle for Applications:**
+
+- **Embedding Security:**
+  - Continuous security measures through the application life cycle.
+  - Ensuring a safe platform, code without vulnerabilities, and understanding operational risks.
+
+**Identity and Access Management (IAM):**
+
+- **Definition:** Authentication and authorization to provide user-specific access.
+- **Cloud Provider Services:**
+  - Ability to define access groups.
+  - Creation of access policies defining user permissions on account resources.
+
+**Cloud Encryption:**
+
+- **Last Line of Defense:**
+  - Encrypts data for robust access control.
+  - Involves key management and certificate management.
+
+**Data Encryption States:**
+
+1. **Encryption at Rest:**
+   - Protecting stored data.
+
+2. **Encryption in Transit:**
+   - Protecting data during transmission.
+
+3. **Encryption in Use:**
+   - Protecting data in memory during usage.
+
+**Monitoring Connected Systems:**
+
+- **Visibility:**
+  - Monitoring all data exchanges between public, private, and hybrid cloud environments.
+  - Ensuring the cloud is a trusted platform for secure integration with enterprise data centers.
