@@ -1,0 +1,46 @@
+**Introduction: Cloud Monitoring and API Tracking**
+
+- **Purpose:** Explore cloud monitoring techniques (alarms, logs, metrics, events, service-based, and IaC) and API call tracking's significance.
+- **Focus:** How these techniques enhance security, performance, and compliance in cloud environments.
+
+**1. Fundamentals of Cloud Monitoring:**
+
+- **Alarms:** Proactive event/threshold triggers for quick responses.
+- **Logs:** Data collection, analysis, storage, and anomaly detection.
+- **Metrics:** Performance data collection and visualization.
+- **Events:** Real-time event capture and action triggering.
+
+**2. Service-Based Monitoring:**
+
+- **Load Balancing:** Workload distribution, bottleneck identification.
+- **Content Delivery:** Monitoring CDNs for optimal content distribution.
+- **Auto-Scaling:** Dynamic resource capacity adjustments.
+- **Infrastructure as Code (IaC):** Drift detection in automated deployments.
+
+**3. Tracking API Calls for Audit:**
+
+- **API Monitoring's Significance:** Essential for security, compliance, and transparency.
+- **Cloud Services Tracking API Calls:**
+  - AWS CloudTrail
+  - Google Cloud Audit Logging
+  - Microsoft Azure Activity Logs
+  - Salesforce Event Monitoring
+
+**4. Cloud Attacks, Risks, and Mitigation:**
+
+- **Vulnerabilities and Risks:**
+  - DDoS Attacks
+  - Data Breaches
+  - Misconfigurations
+  - Insider Threats
+- **Mitigation Measures:**
+  - Authentication & Access Controls
+  - Data Encryption
+  - Vulnerability Assessments & Penetration Testing
+  - Network Traffic Monitoring & Behavior Analytics
+
+**Conclusion:**
+
+- **Importance of Monitoring:** Crucial for security, performance, and availability.
+- **Key Practices:** Alarms, logs, metrics, events, and API call tracking.
+- **Impact:** Optimization of cloud infrastructure, risk mitigation, and service excellence.
